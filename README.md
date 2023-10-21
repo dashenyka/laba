@@ -10,7 +10,7 @@
 Программа обрабатывает введенную строку с помощью шифра Цезаря
 ##### Скриншоты тестов
 
-![image](https://github.com/dashenyka/laba/assets/146252024/74a0640f-afc9-486f-b417-ea4337e54a48)
+![image](https://github.com/dashenyka/laba/assets/146252024/d8d49c28-88f3-4b05-b24c-0ac26a4d9bc6)
 
 ![image](https://github.com/dashenyka/laba/assets/146252024/b5ab107e-782e-4073-a1b3-cdf183d23a0e)
 
